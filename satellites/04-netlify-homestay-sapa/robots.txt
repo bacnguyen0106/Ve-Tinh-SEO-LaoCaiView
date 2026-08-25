@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://tophomestaysapa.netlify.app/sitemap.xml

@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://nhadatlaocai-review.gitlab.io/sitemap.xml

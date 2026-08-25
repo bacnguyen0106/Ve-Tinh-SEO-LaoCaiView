@@ -1,0 +1,17 @@
+# Secrets & Environment Variables (STRICTLY SECURE)
+.env
+.env.*
+.env.local
+.env.production
+!.env.example
+*.key
+*.pem
+*.token
+*.secret
+credentials*.json
+
+# Cache
+__pycache__/
+*.pyc
+.DS_Store
+*.log

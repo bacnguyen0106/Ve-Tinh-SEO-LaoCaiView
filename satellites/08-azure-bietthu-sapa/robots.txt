@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://bietthunghiduongsapa.azurestaticapps.net/sitemap.xml
