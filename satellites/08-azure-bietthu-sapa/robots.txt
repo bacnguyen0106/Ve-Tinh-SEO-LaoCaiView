@@ -1,3 +1,4 @@
 User-agent: *
 Allow: /
-Sitemap: https://bietthunghiduongsapa.azurestaticapps.net/sitemap.xml
+
+Sitemap: https://bietthu-sapa-review.azurestaticapps.net/sitemap.xml

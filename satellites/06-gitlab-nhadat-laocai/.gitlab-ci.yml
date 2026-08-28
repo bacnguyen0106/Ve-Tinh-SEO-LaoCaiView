@@ -1,0 +1,11 @@
+# GitLab Pages CI/CD Configuration for Static HTML
+pages:
+  stage: deploy
+  script:
+    - mkdir -p public
+    - cp index.html favicon.svg og-image.svg robots.txt sitemap.xml public/ 2>/dev/null || cp -r * public/
+  artifacts:
+    paths:
+      - public
+  rules:
+    - if: $CI_COMMIT_BRANCH == "main" || $CI_COMMIT_BRANCH == "master"

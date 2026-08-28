@@ -1,3 +1,4 @@
 User-agent: *
 Allow: /
-Sitemap: https://batdongsansapa-review.github.io/sitemap.xml
+
+Sitemap: https://batdongsan-sapa-review.github.io/sitemap.xml

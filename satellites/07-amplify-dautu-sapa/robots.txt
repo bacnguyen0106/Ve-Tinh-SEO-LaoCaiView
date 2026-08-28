@@ -1,3 +1,4 @@
 User-agent: *
 Allow: /
-Sitemap: https://kinhnghiemdautusapa.amplifyapp.com/sitemap.xml
+
+Sitemap: https://dautu-sapa-review.amplifyapp.com/sitemap.xml

@@ -1,3 +1,4 @@
 User-agent: *
 Allow: /
-Sitemap: https://matbangsapa-review.pages.dev/sitemap.xml
+
+Sitemap: https://matbang-sapa-review.pages.dev/sitemap.xml
